@@ -8,9 +8,9 @@ import { FaGithub } from 'react-icons/fa';
 
 
 const navigation = [
-  { name: 'Team', href: '#', current: false },
+  { name: 'About', href: '#', current: false },
+  { name: 'Contact', href: '#contact', current: false },
   { name: 'Projects', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
 ]
 
 function classNames(...classes) {

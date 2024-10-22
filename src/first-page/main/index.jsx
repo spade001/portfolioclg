@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '/pexels-pixabay-220453.jpg';
+import profilePic from '/pexels-moh-adbelghaffar-771742.jpg';
 
 const ProfileCard = () => {
   return (
@@ -9,7 +9,7 @@ const ProfileCard = () => {
           <h2 className="text-white text-lg mb-2">Hello, I'm Subin,</h2>
           <h1 className="text-[#A6BBCC] text-7xl font-bold mb-4">Full stack</h1>
           <h1 className="text-[#A6BBCC] text-7xl font-bold mb-4">Developer</h1>
-          <a className=" text-white text-sm"> Contact Me</a>
+          <a className=" text-white text-sm" href='#contact'> Contact Me</a>
         </div>
         <div className="md:w-1/2 flex justify-center items-center">
           <div className="">
